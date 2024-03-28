@@ -1,0 +1,21 @@
+{
+    "name": "Delice Food App",
+    "short_name": "Delice",
+    "start_url": "ani.html",
+    "scope": "./",
+    "icons": [
+        {
+          "src": "/a.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "/a.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "theme_color": "#ffd31d",
+      "background_color": "#333",
+    "display": "standalone"
+  }
