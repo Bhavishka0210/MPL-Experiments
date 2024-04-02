@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "849876682462",
+    "firebase_url": "https://wisesplit-5a021-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wisesplit-5a021",
+    "storage_bucket": "wisesplit-5a021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849876682462:android:99e9aa352ce4147d89e44f",
+        "android_client_info": {
+          "package_name": "com.example.digi_diagnos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbPhIPpMOUJvV7w2VMxlkP9f616BNQaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849876682462:android:69e9c2a19c14a5ca89e44f",
+        "android_client_info": {
+          "package_name": "com.example.expense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbPhIPpMOUJvV7w2VMxlkP9f616BNQaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849876682462:android:ddd7c6ef5ebd642689e44f",
+        "android_client_info": {
+          "package_name": "com.example.madapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbPhIPpMOUJvV7w2VMxlkP9f616BNQaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849876682462:android:435b08e0f24cbaeb89e44f",
+        "android_client_info": {
+          "package_name": "com.example.nibbles_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbPhIPpMOUJvV7w2VMxlkP9f616BNQaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
